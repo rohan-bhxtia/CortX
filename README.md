@@ -8,7 +8,7 @@ This assistant can manage your **emails**, **calendar**, **contacts**, and even 
 
 ---
 
-## 🚀 Key Featuresss
+## 🚀 Key Features
 
 - 🎙️ **Voice-First Interaction** — Talk to your assistant directly using ElevenLabs speech processing.  
 - 📧 **Email Management** — Send, draft, and search emails through Gmail.  
